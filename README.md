@@ -2,7 +2,7 @@
 
 
 
-## About Larabase
+## About LaravelModular
 
 Larabase  is a web application framework
 
